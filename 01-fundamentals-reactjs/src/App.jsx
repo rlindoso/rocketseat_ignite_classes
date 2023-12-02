@@ -1,8 +1,12 @@
 import { Post } from './Post'
+import { Header } from './components/Header'
+
+import './styles.css'
 
 export function App() {
   return (
     <>
+      <Header/>
       <Post 
         author="Melina" 
         content="I can play the role of maiden. Turning rune fragments into strength. To aid you in your search for the Elden Ring. You need only take me with you. She is a mysterious young lady seen in an opening cutscene with Torrent, the Spirit Steed, and first met at the beginning of the Tarnished's journey. Melina wears a black robe and approaches players while they are resting at different Sites of Grace. She offers guidance throughout the game, grants the ability to level up and teleports you to certain key areas." 
