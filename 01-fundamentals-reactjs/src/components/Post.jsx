@@ -21,7 +21,11 @@ export function Post() {
                 <p>My wide range of experience allows me to approach software development with a holistic perspective, ensuring that I can provide comprehensive solutions for various project requirements. I am constantly expanding my knowledge and staying up-to-date with emerging technologies and industry best practices to deliver cutting-edge solutions.</p>
                 <p>As an avid learner and dedicated professional, I actively seek out opportunities to enhance my skills through professional development, attending workshops, and staying connected with the developer community. I thrive on challenges and am passionate about delivering high-quality software solutions that meet client needs and exceed expectations.</p>
                 <p><a href="https://www.linkedin.com/in/rafael-lindoso-de-araujo/">https://www.linkedin.com/in/rafael-lindoso-de-araujo/</a></p>
-                <p><a href="">#newproject #ignite #rocketseat</a></p>
+                <p>
+                    <a href="">#newproject</a>{' '}
+                    <a href="">#ignite</a>{' '}
+                    <a href="">#rocketseat</a>
+                </p>
             </div>
         </article>
     )
